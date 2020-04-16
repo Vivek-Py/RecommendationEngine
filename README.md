@@ -1,6 +1,6 @@
-# Recommendations_with_IBM
+# Recommendation Engine With IBM
 
-## Required libraries
+## Necessary libraries
 
 - python 3.6.3
 - pandas 0.20.3
