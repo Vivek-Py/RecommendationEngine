@@ -20,9 +20,9 @@ In order to determine which articles to show to each user, It will be performing
 
 ## Files
 
-- Recommendations_with_IBM.ipynb: My answer for recommendations, It describe how to recommend articles to users
+- Recommendations_with_IBM.ipynb: My answer for recommendations, It describe how to recommend articles to users.
 - Recommendations_with_IBM.html: As the same of above notebook but format is html.
 
 ## Acknowledgements
 
-I wish to thank [IBM Watson Studio platform](https://dataplatform.cloud.ibm.com/) for dataset, and thank [Udacity](https://www.udacity.com/) for advice and review.
+I wish to thank [IBM Watson Studio platform](https://dataplatform.cloud.ibm.com/) for dataset, and thank [Udacity](https://www.udacity.com/) for advice and review. 
